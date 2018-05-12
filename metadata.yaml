@@ -1,0 +1,35 @@
+_repo: Lulu-s-Library-Volume-III--of-3-_40683
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40683-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, L. M. (Louisa May)
+    - Barnard, A. M.
+    - Alcott, Louisa M. (Louisa May)
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: ''
+gutenberg_issued: '2012-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+tableOfContents: Recollections of my childhood -- A Christmas turkey, and how it came
+  -- The silver party -- The blind lark -- Music and macaroni -- The little red purse
+  -- Sophie's secret -- Dolly's bedstead -- Trudel's siege.
+title: Lulu's Library, Volume 3 (of 3)
+url: http://www.gutenberg.org/ebooks/40683
